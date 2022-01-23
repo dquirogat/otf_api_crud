@@ -31,5 +31,5 @@ You should now be able to navigate to [http://localhost:3000](http://localhost:3
 1. Select the row that you want to delete.
 2. Click on delete button.
 
-### Delete
+### Publish
 Hubspot has two tables, draft and publish. When you have to see all your changes on publish table, click on publish button.
