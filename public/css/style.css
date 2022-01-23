@@ -1,0 +1,20 @@
+.title{
+    color: #070ac2;
+	font-weight: 700;
+	margin: 2rem;
+	text-align: center;
+	font-size: 28px;
+}
+
+.subTitle{
+    color: #f50303;
+	font-weight: 700;
+	margin: 1rem 0;
+	text-align: left;
+	font-size: 22px;
+}
+
+.button_group{
+    text-align: center;
+    margin: 1rem 0;
+}
